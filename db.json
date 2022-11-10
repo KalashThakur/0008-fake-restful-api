@@ -1,15 +1,7 @@
 {
-  "furniture": [
+  "github": [
     {
-      "id": 1,
-      "type": "Table",
-      "year": 2014,
-      "Description": "Wooden table",
-      "Price": 5000   
+        
     }
-  ],
-
-  "wishlist": [
-    
   ]
 }
